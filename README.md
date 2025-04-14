@@ -20,3 +20,4 @@ A ya po lyubvi, po lyubvi hochu.
 Svobodu, svobodu, mne dajte svobodu,
 YA pticeyu vvys' ulechu!<br><br>
 
+![7](https://github.com/user-attachments/assets/64b061d8-90c0-4081-b4f5-66f3f110a485)
