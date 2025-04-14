@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>zabava4</repo>
-  <version>v1.0.2</version>
+  <version>v1.0.3</version>
   <next number="1" owner="Fistachka" repo="zabava3"/>
   <readme>
     <ru>d2f188a6ec5019885a0ec040034fb33603b0e0284f13ed2f30fa74f0ea710595</ru>
@@ -11,7 +11,7 @@
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
     <scale>minor</scale>
-    <bpm>112</bpm>
+    <bpm>116</bpm>
     <lowestNote>58</lowestNote>
     <tonalities>1</tonalities>
     <video name="25t.mp4" size="1211872" type="video/mp4" volume="0.5">e9b56ac6b2cd1d68fa2d4594ceaa20c58285d1c580ad0f30deea2ec615ab668a</video>
@@ -25,7 +25,7 @@
   </exercise>
   <exercise number="2">
     <scale>minor</scale>
-    <bpm>112</bpm>
+    <bpm>116</bpm>
     <lowestNote>58</lowestNote>
     <tonalities>1</tonalities>
     <video name="26t.mp4" size="1397672" type="video/mp4" volume="0.5">9f623c53252940ddb9649c909acc67209df4106b219898dad22c437bf330b0ee</video>
@@ -41,7 +41,7 @@
   </exercise>
   <exercise number="3">
     <scale>minor</scale>
-    <bpm>112</bpm>
+    <bpm>116</bpm>
     <lowestNote>58</lowestNote>
     <tonalities>1</tonalities>
     <video name="27t.mp4" size="1261100" type="video/mp4" volume="0.5">e2b06f0349df3586e0cb3e6adf662a668c76315d1256fc24b8db37c968f330cc</video>
@@ -55,7 +55,7 @@
   </exercise>
   <exercise number="4">
     <scale>minor</scale>
-    <bpm>112</bpm>
+    <bpm>116</bpm>
     <lowestNote>58</lowestNote>
     <tonalities>1</tonalities>
     <video name="28t.mp4" size="1216257" type="video/mp4" volume="0.5">d65b4f7b2ea4c19dd2212e6ce48b1d92e6b1d954991f91a6b3ea6677e7fb2b7e</video>
@@ -69,7 +69,7 @@
   </exercise>
   <exercise number="5">
     <scale>minor</scale>
-    <bpm>112</bpm>
+    <bpm>116</bpm>
     <lowestNote>58</lowestNote>
     <tonalities>1</tonalities>
     <video name="29t.mp4" size="1376388" type="video/mp4" volume="0.5">9e652819de1476e20c80e2e5123fb7ea2919172b62af9604f643ebc5b1c4467a</video>
@@ -84,7 +84,7 @@
   </exercise>
   <exercise number="6">
     <scale>minor</scale>
-    <bpm>112</bpm>
+    <bpm>116</bpm>
     <lowestNote>58</lowestNote>
     <tonalities>1</tonalities>
     <video name="30t.mp4" size="1229361" type="video/mp4" volume="0.5">ad291cc311e975f6de8cf48b9ba9cbcacd21db4e6cd7791cda7edb19b4219d2d</video>
@@ -99,7 +99,7 @@
   </exercise>
   <exercise number="7">
     <scale>chromaticminor</scale>
-    <bpm>112</bpm>
+    <bpm>118</bpm>
     <lowestNote>58</lowestNote>
     <tonalities>1</tonalities>
     <video name="31t.mp4" size="1448386" type="video/mp4" volume="0.5">49834e425fe59bfb786eb735d973858c880b5a386442e6aa7710e6a72d5fe003</video>
