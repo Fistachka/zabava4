@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>zabava4</repo>
-  <version>v1.0.3</version>
+  <version>v1.0.4</version>
   <next number="1" owner="Fistachka" repo="zabava3"/>
   <readme>
     <ru>d2f188a6ec5019885a0ec040034fb33603b0e0284f13ed2f30fa74f0ea710595</ru>
@@ -16,11 +16,11 @@
     <tonalities>1</tonalities>
     <video name="25t.mp4" size="1211872" type="video/mp4" volume="0.5">e9b56ac6b2cd1d68fa2d4594ceaa20c58285d1c580ad0f30deea2ec615ab668a</video>
     <notes>
-      <note number="1" values="388" ticks="60" durationTicks="142" ppq="96" velocity="0.843"/>
-      <note number="2" values="588" ticks="227" durationTicks="65" ppq="96" velocity="0.906"/>
-      <note number="3" values="188" ticks="370" durationTicks="63" ppq="96" velocity="0.866"/>
-      <note number="4" values="288" ticks="432" durationTicks="64" ppq="96" velocity="0.913"/>
-      <note number="5" values="798" ticks="503" durationTicks="89" ppq="96" velocity="0.913"/>
+      <note number="1" values="388" ticks="34" durationTicks="107" ppq="96" velocity="0.843"/>
+      <note number="2" values="588" ticks="127" durationTicks="65" ppq="96" velocity="0.906"/>
+      <note number="3" values="188" ticks="224" durationTicks="63" ppq="96" velocity="0.866"/>
+      <note number="4" values="288" ticks="287" durationTicks="48" ppq="96" velocity="0.913"/>
+      <note number="5" values="798" ticks="343" durationTicks="110" ppq="96" velocity="0.913"/>
     </notes>
   </exercise>
   <exercise number="2">
