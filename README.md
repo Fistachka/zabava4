@@ -21,3 +21,5 @@ Svobodu, svobodu, mne dajte svobodu,
 YA pticeyu vvys' ulechu!<br><br>
 
 ![7](https://github.com/user-attachments/assets/64b061d8-90c0-4081-b4f5-66f3f110a485)
+![7](https://github.com/user-attachments/assets/40f2c70c-56e3-4213-81a8-70bd0cbea56a)
+![8](https://github.com/user-attachments/assets/10529929-9c1a-4cba-94fd-7faf90ded3c7)
