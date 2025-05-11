@@ -7,7 +7,9 @@
 А я не хочу, не хочу о престоле,
 А я о любви, о любви хочу.
 На волю, на волю, хочу я на волю,
-Я птицею ввысь улечу!<br><br>
+Я птицею ввысь улечу!
+
+Предыдущий урок: stolbitsa.com/fistachka/zabava3<br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
@@ -18,5 +20,7 @@
 A ya ne hochu, ne hochu o prestole,
 A ya o lyubvi, o lyubvi hochu.
 Na volyu, na volyu, hochu ya na volyu,
-YA pticeyu vvys' ulechu!<br><br>
+YA pticeyu vvys' ulechu!
+
+Previous lesson: stolbitsa.com/fistachka/zabava3<br><br>
 
