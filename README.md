@@ -3,6 +3,7 @@
 ![8](https://github.com/user-attachments/assets/10529929-9c1a-4cba-94fd-7faf90ded3c7)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/ytEZ4Wlln8M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EoLsUOPMESk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 А я не хочу, не хочу о престоле,
 А я о любви, о любви хочу.
@@ -16,6 +17,7 @@
 ![8](https://github.com/user-attachments/assets/10529929-9c1a-4cba-94fd-7faf90ded3c7)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/jILc9hvZ4tM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3R3SYHBVIfo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 A ya ne hochu, ne hochu o prestole,
 A ya o lyubvi, o lyubvi hochu.
